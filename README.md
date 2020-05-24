@@ -1,2 +1,1 @@
-hello
-y
+Small project
